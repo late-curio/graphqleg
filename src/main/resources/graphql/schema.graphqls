@@ -1,5 +1,5 @@
 type Query {
-  playerByGroup(id: ID): Player
+  playerById(id: ID): Player
 }
 
 type Player {
